@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Review bot",
+    "description": "Review pull and merge requests into protected branches and post the findings back."
+  }
+}

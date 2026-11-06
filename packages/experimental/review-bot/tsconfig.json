@@ -1,0 +1,28 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib/types"
+  },
+  "include": [
+    "src"
+  ],
+  "references": [
+    { "path": "../../../vendor/cordis" },
+    { "path": "../../../vendor/loader" },
+    { "path": "../../../vendor/include" },
+    { "path": "../../../vendor/schemastery" },
+    { "path": "../../core/agent" },
+    { "path": "../../core/session" },
+    { "path": "../../core/tools" },
+    { "path": "../../credentials/credentials" },
+    { "path": "../../interaction/permission-presets" },
+    { "path": "../../preset/agent-preset-registry" },
+    { "path": "../../session/session-title" },
+    { "path": "../../session/working-directory" },
+    { "path": "../../storage/storage-domain" },
+    { "path": "../../workspace/workspace" },
+    { "path": "../forge" },
+    { "path": "../webhook" }
+  ]
+}

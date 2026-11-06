@@ -115,6 +115,7 @@
     "@deepseek-ai/dsh-skill-badge": "workspace:*",
     "@deepseek-ai/dsh-webhook-github": "workspace:*",
     "@deepseek-ai/dsh-webhook": "workspace:*",
+    "@deepseek-ai/dsh-review-bot": "workspace:*",
     "@deepseek-ai/dsh-tool-ralph": "workspace:*",
     "@deepseek-ai/dsh-hooks-codex": "workspace:*",
     "@deepseek-ai/dsh-hooks-claude-code": "workspace:*",
